@@ -1,12 +1,3 @@
-# OSSLab2025
-This repository contains lab exercises for the Open Source Software Lab - 2025
-
-
-## Lab Exercise 1
-Name: Rashmi Dubey
-Roll Number: 231b260
-Email: rashmi@juetguna.in
-
 def add_two_numbers(a, b):
     return a + b
 
